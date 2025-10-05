@@ -1,7 +1,6 @@
 # Hello 🌎, I'm Aadarsh Pathre
 
 
-
 ![Bar Graph GIF](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edge technologies, and contributing to open-source projects. Here's a glimpse of my activity and achievements:
@@ -43,6 +42,7 @@ Feel free to explore my repositories and contributions, and let's build somethin
 If you enjoy my work and would like to support my contributions to open source and innovative projects, feel free to sponsor me! Your support keeps the passion alive for creating awesome projects. 😊 
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/AadarshCanCode)
+
 
 
 
