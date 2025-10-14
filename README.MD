@@ -37,11 +37,14 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 Feel free to explore my repositories and contributions, and let's build something awesome together!
 
 ---
+![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/AadarshCanCode?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true)
+
 
 ### 💖 Support My Work:
 If you enjoy my work and would like to support my contributions to open source and innovative projects, feel free to sponsor me! Your support keeps the passion alive for creating awesome projects. 😊 
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/AadarshCanCode)
+
 
 
 
