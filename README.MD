@@ -41,7 +41,7 @@ Feel free to explore my repositories and contributions, and let's build somethin
 
 
 ### 💖 Support My Work:
-If you enjoy my work and would like to support my contributions to open source and innovative projects, feel free to sponsor me! Your support keeps the passion alive for creating awesome projects. 😊 
+If you enjoy my work and would like to support my contributions to open source and innovative projects, feel free to sponsor me! 
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/AadarshCanCode)
 
