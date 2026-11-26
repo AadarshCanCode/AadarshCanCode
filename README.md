@@ -15,7 +15,7 @@ I build LLM pipelines, backend systems and the cloud infrastructure they run on.
 ### 📄 Research
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--8197--8753-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0000-8197-8753)
 
-- **What Breaks and What Comes Back**: capability loss and recovery in depth-pruned small language models ([arXiv:2611.00877](https://arxiv.org/abs/2611.00877))
+- **What Breaks and What Comes Back**: capability damage and recovery in depth-pruned small language models ([arXiv:2611.00877](https://arxiv.org/abs/2611.00877))
 - **Zero-Contamination Incident Response**: presented at ICUIS 2026 (industry project with Cohesity)
 - **Explainable AI in Diabetic Retinopathy Diagnosis**: CNN + Grad-CAM, AICCT 2025 (CRC Press)
 
